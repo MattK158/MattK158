@@ -16,6 +16,6 @@ I like doing projects to learn and just recently started uploading them on GitHu
 -[Curbside eCommerce store](https://github.com/MattK158/eCommerceWebApp): Similar to H-E-B Curbside, this web application allows you to shop for groceries, edit your cart, and checkout.
 
 # Skills & Technologies
-Frontend: HTML, CSS, JavaScript, React, Bootstrap
-Backend: Java, Python, C, SQL, PHP, C#, phpmyadmin, MySQL
-Technologies: AWS, Spring, Flask, Docker, Github, Postman
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap
+- Backend: Java, Python, C, SQL, PHP, C#, phpmyadmin, MySQL
+- Technologies: AWS, Spring, Flask, Docker, Github, Postman
