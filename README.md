@@ -12,8 +12,8 @@ I like doing projects to learn and just recently started uploading them on GitHu
 - 🌱 I’m currently learning PHP, new libraries, and exploring the integration of AI models into my workflows. Specifically utilizing the OpenAI API to generate dynamic content. 
 
 # My Latest Projects
--[Receipt to Recipe](https://github.com/MattK158/ReceiptToRecipe): Upload your receipt, add ingredients to your fridge, and generate new recipes for every meal!
--[Curbside eCommerce store](https://github.com/MattK158/eCommerceWebApp): Similar to H-E-B Curbside, this web application allows you to shop for groceries, edit your cart, and checkout.
+- [Receipt to Recipe](https://github.com/MattK158/ReceiptToRecipe): Upload your receipt, add ingredients to your fridge, and generate new recipes for every meal!
+- [Curbside eCommerce store](https://github.com/MattK158/eCommerceWebApp): Similar to H-E-B Curbside, this web application allows you to shop for groceries, edit your cart, and checkout.
 
 # Skills & Technologies
 - Frontend: HTML, CSS, JavaScript, React, Bootstrap
