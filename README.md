@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Matthew Kelly
+I'm a passionate Software Engineer who recently graduated from the University of Texas at San Antonio.
+I majored in Computer Science with a Concentration in Software Engineering.
+I like doing projects to learn and just recently started uploading them on GitHub as I am applying for jobs!
 
+![Languages](https://img.shields.io/github/languages/top/MattK158/README.md)
 <!--
 **MattK158/MattK158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
