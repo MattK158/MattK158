@@ -6,7 +6,7 @@ This is a personal GitHub, not used for work.
 I like doing projects to learn and just recently started uploading them on GitHub!
 
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,py,c++,c,cs,php,js,html,css,spring,aws,flask,linux,ubuntu,mysql,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,c,cs,php,js,html,css,spring,aws,flask,linux,ubuntu,mysql,nginx)](https://skillicons.dev)
 
 # About Me
 - 🔭 I’m currently working at a robotics company.
