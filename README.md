@@ -1,8 +1,8 @@
 ## Matthew Kelly
 # Who am I?
+This is a personal GitHub, not used for work.
 I'm a passionate Software Engineer who is working at a robotics company.
 I majored in Computer Science with a Concentration in Software Engineering at the University of Texas at San Antonio.
-This is a personal GitHub, not used for work.
 I like doing projects to learn and just recently started uploading them on GitHub!
 
 # My Skills
